@@ -2,11 +2,5 @@
 
 
 
- ###I’m currently working on creating  website with my friends. I'm sure we have an unique vision. 
- ###I’m currently learning programming and math. Tons and tons of math.
- I’m looking to collaborate on any ideas! I love hearing about fantastics ideas!
- I’m looking for help with some real technical issues.
- Ask me about anything you need :)
- How to reach me: dreamteam@gmail.com
- Fun fact: ...
+Ja i moi przyjaciele staramy się stworzyć stronę zawierającą informacje o wydarzeniach kulturowych w całej Polsce. Jeśli macie jakiekolwiek pytania śmiało możecie do nas pisać. Obecnie mam problem z zebraniem odpowedniej ilości danych na ten temat - przez pogodę i temperaturę ilość wydarzeń jest ograniczona :).
 
